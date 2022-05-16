@@ -4,7 +4,9 @@ Chatting with React
 
 ## Description
 
-• Implement chatting function with React.
+• Implement chatting function with React
+
+• Acting with Firebase
 
 • will be updated
 
@@ -19,7 +21,7 @@ Chatting with React
 
 ### Installing
 
-### Executing Demo program
+### Executing Demo Page
 
 * https://chattingwithfirebase-2426b.web.app/
 ```
